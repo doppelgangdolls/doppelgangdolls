@@ -536,6 +536,13 @@ header a.button {
   top: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
+header img#logo {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 200px;
+  width: 200px;
+}
 aside a.button {
   width: 138px;
   padding-left: 64px;
